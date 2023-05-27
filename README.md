@@ -1,16 +1,7 @@
-# pyresto
+# Pyresto
+Pyresto is a learning app that helps you learn basic mathematics in an intuitive way. It provides a user-friendly interface for practicing addition, multiplication, and division tables.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Addition Tables: Generate and explore addition tables for numbers 1 to 30.
+- Multiplication Tables: Generate and explore multiplication tables for numbers 1 to 30.
+- Division Tables: Generate and explore division tables for numbers 1 to 30.
